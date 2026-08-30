@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../Downloads/FeatureEnggAndMLOPs/data"
+		},
+		{
+			"path": "../../../Downloads/FeatureEnggAndMLOPs/notebooks"
+		}
+	],
+	"settings": {}
+}
